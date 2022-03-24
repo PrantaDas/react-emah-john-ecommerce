@@ -1,3 +1,8 @@
 .cart-title{
     font-style: italic;
 }
+.cart{
+    position: sticky;
+    top: 0;
+    margin-top: 30px;
+}
