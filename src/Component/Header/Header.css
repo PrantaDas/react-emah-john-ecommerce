@@ -1,0 +1,32 @@
+nav{
+    background-color: #1C2B35;
+    height: 80px;
+    padding: 0 140px;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.option a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.option a:hover{
+    color: orange;
+}
+@media screen and (max-width:770px){
+    nav{
+        height: 160px;
+    }
+    .option a{
+        display: block;
+        padding: 5px;
+    }
+    .option{
+        padding: 50px;
+    }
+}

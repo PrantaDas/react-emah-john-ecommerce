@@ -1,0 +1,17 @@
+.product{
+    width: 300px;
+    height: 532px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+}
+.photo{
+    height: 286px;
+    width: 286px;
+}
+
+.btn{
+    width: 100%;
+}
+.btn-container{
+    background-color:  #FFE0B3;
+}
